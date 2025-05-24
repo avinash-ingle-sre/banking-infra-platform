@@ -6,5 +6,5 @@ module "vpc" {
   }
 
   vpc_cidr = var.vpc_cidr
-  ...
+  # बाकीचे input variables
 }
